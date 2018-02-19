@@ -10,7 +10,7 @@ Lessoned Learned:
 * special methods like __init__ are called "dunder methods", dunder meaning double underscore.
 * You can create a class with `collections.namedtuple`
 * function `random.choice` gets random item from a sequence
-* You can do nested for loops in condensed form of list comprehensions. 
+* You can do nested for loops in condensed form of list comprehensions.
 * `deck[12::13]` lets you slice the deck from index 12 and then skipping 13 cards at a time! what?!
 * `reversed(deck)` automatically reverses the deck, does not operate on deck, so it's temporary
 * you can pass in a function to sort `sorted(deck, key=spades_high)`, wow
@@ -21,5 +21,7 @@ Lessoned Learned:
 * infix operators vs. post fix operators, kind of like standard algebraic notation vs. reverse polish notation
 
 Recommended for: Python programmers
-URL: http://shop.oreilly.com/product/0636920032519.do
+
+URLs: 
+http://shop.oreilly.com/product/0636920032519.do
 https://github.com/fluentpython/example-code
